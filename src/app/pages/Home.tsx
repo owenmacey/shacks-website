@@ -3,12 +3,7 @@ import { ArrowRight, Trophy, Target, Users, Award, Star, ChevronRight } from "lu
 import { Button } from "../components/ui/button";
 
 export function Home() {
-  const stats = [
-    // { number: "500+", label: "Athletes Trained" },
-    // { number: "3,000+", label: "Hours of 1:1 Coaching" },
-    // { number: "85%", label: "Rep Team Advancement" },
-    // { number: "12", label: "College Commits" },
-  ];
+  const stats: { number: string; label: string }[] = [];
 
   const features = [
     {
