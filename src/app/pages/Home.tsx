@@ -123,8 +123,7 @@ export function Home() {
               <Link to="/programs">
                 <Button
                   size="lg"
-                  variant="outline"
-                  className="border-zinc-700 text-white hover:bg-zinc-800 hover:border-zinc-600 px-8 py-6 text-base font-bold tracking-wide transition-all duration-200 w-full sm:w-auto"
+                  className="bg-transparent border border-zinc-700 text-white hover:bg-zinc-800 hover:border-zinc-600 px-8 py-6 text-base font-bold tracking-wide transition-all duration-200 w-full sm:w-auto"
                 >
                   View Programs <ChevronRight className="ml-1" size={18} />
                 </Button>
