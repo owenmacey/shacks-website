@@ -134,7 +134,7 @@ export function Layout() {
               </p>
               <div className="flex items-center gap-3">
                 <a
-                  href="https://instagram.com"
+                  href="https://instagram.com/shootingwithshack"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-lg bg-zinc-800 hover:bg-orange-600 flex items-center justify-center transition-colors duration-200"
@@ -164,11 +164,11 @@ export function Layout() {
               <h3 className="text-xs font-bold tracking-[0.2em] uppercase text-zinc-500 mb-5">Contact</h3>
               <div className="space-y-3">
                 <a
-                  href="mailto:info@shackshooting.ca"
+                  href="mailto:Nickshackell@gmail.com"
                   className="flex items-center gap-3 text-zinc-400 hover:text-orange-500 text-sm transition-colors"
                 >
                   <Mail size={14} className="text-orange-600 flex-shrink-0" />
-                  penis
+                  Nickshackell@gmail.com
                 </a>
               </div>
             </div>

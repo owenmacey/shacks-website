@@ -36,8 +36,8 @@ export function Contact() {
     {
       icon: Mail,
       title: "Email",
-      detail: "info@shackshooting.ca",
-      link: "mailto:info@shackshooting.ca",
+      detail: "Nickshackell@gmail.com",
+      link: "mailto:Nickshackell@gmail.com",
     },
     {
       icon: Phone,
